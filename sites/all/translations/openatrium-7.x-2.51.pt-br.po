@@ -1,0 +1,28 @@
+# Portuguese, Brazil translation of Open Atrium (7.x-2.51)
+# Copyright (c) 2015 by the Portuguese, Brazil translation team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Open Atrium (7.x-2.51)\n"
+"POT-Creation-Date: 2015-12-16 18:45+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Language-Team: Portuguese, Brazil\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+msgid "Save and continue"
+msgstr "Salvar e continuar"
+msgid "@drupal installation complete"
+msgstr "Instalação do @drupal completa"
+msgid "Congratulations, you installed @drupal!"
+msgstr "Parabéns, você instalou o @drupal!"
+msgid ""
+"Review the messages above before visiting <a href=\"@url\">your new "
+"site</a>."
+msgstr ""
+"Leia as mensagens acima novamente antes de visitar <a "
+"href=\"@url\">seu novo site</a>."
+msgid "<a href=\"@url\">Visit your new site</a>."
+msgstr "<a href=\"@url\">Visite seu novo site</a>."

@@ -1,0 +1,28 @@
+# Portuguese, Brazil translation of OA Responsive Regions (7.x-1.0-beta1)
+# Copyright (c) 2014 by the Portuguese, Brazil translation team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: OA Responsive Regions (7.x-1.0-beta1)\n"
+"POT-Creation-Date: 2014-01-15 20:55+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Language-Team: Portuguese, Brazil\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+msgid "Top"
+msgstr "Superior"
+msgid "CSS class"
+msgstr "Classe CSS"
+msgid "Bottom"
+msgstr "Inferior"
+msgid "Position"
+msgstr "Posição"
+msgid "Left"
+msgstr "Esquerda"
+msgid "Right"
+msgstr "Direita"
+msgid "Open Atrium"
+msgstr "Open Atrium"
